@@ -1,1 +1,0 @@
-# Molde-para-um-bom-arquivo-README
