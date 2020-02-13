@@ -1,3 +1,5 @@
+el.setAttribute('webpreferences', 'allowDisplayingInsecureContent,contentIsolation,defaultEncoding=utf-8')
+
 # Título do Projeto
 
 Aqui vem um parágrafo descrevendo o projeto
