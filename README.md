@@ -9,7 +9,7 @@ As instruções a seguir fornecerão uma cópia do projeto em execução na sua 
 
 ### Pré-requisitos
 
-O que você precisa para instalar o software e como instalá-lo
+O que você precisa pararodar o sistema na sua m�quina
 
 ```
 Dê exemplos
@@ -73,20 +73,25 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Controle de versão
 
-Usamos [SemVer] (http://semver.org/) para versionar. Para as versões disponíveis, consulte as [tags neste repositório] (https://github.com/your/project/tags).
+Usamos [SemVer] (http://semver.org/) para versionar. Para as versões disponíveis, consulte  [tags neste repositó(https://github.com/your/project/tags).
 
 ## Autores
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* [**Billie Thompson**](https://github.com/PurpleBooth) - *Criadora do arquivo*
+* [**Raisson Souto**](https://github.com/RaissonSouto) - *Tradutor e modificador do arquivo*
 
 Veja também a lista dos [contribuidores](https://github.com/seu/projeto/contribuidores) que participaram desse projeto.
 
-## Licença
+## Licenç(s)
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes
+A(s) licen�a(s) que esse projeto possui, exemplo:
+
+```
+Este projeto está licenciado sob a licença MIT - consulte o arqui [LICENSE.md](LICENSE.md) para obter detalhes
+```
 
 ## Agradecimentos
 
-* Hat tip to anyone whose code was used
-* Inspirações
+* As pessoas que tiveram seus c�digos usados no projeto
+* Inspiraçõ
 * etc
