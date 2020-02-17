@@ -1,4 +1,4 @@
-# Titulo do Projeto
+# Título do Projeto
 
 Aqui vem um parágrafo descrevendo o projeto
 
