@@ -1,19 +1,21 @@
 # Título do Projeto
 
-Aqui vem um parágrafo descrevendo o projeto
+  Aqui vem um parágrafo descrevendo o projeto. Como essa definição ficou muito pequena eu vou começar a colocar umas coisas aleatórias aqui pra deixar o parágrafo grande, fazendo com que você possa ter uma visualização de como ficaria esteticamente o parágrafo.
+
+  No caso, eu também vou aproveitar pra falar como usar esse projeto, que deveria ser no próximo parágrafo mas eu vou falar agora. No topo desse README.md tem
 
 ## Começando
 
-As instruções a seguir fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
- Consulte o deployment para obter notas sobre como dar deploy do projeto em um sistema ativo
+As instruções a seguir devem fornecer uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
+ Consulte o deployment para obter notas sobre como dar deploy do projeto em um sistema ativo.
 
 ### Pré-requisitos
 
 O que você precisa para rodar o sistema na sua máquina
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Framework](coloque o link aqui) - O framework usado
+* [Linguagem](coloque o link aqui) - A linguagem utilizada
+* [Biblioteca](coloque o link aqui) - A biblioteca utilizada
 
 ### Instalação
 
@@ -32,7 +34,7 @@ até terminar
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
-Termine com um exeplo
+Termine com uma demostração de uma execução básica do sistema.
 
 ## Rodando os Testes
 
