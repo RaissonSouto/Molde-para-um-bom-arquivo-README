@@ -1,5 +1,3 @@
-el.setAttribute('webpreferences', 'allowDisplayingInsecureContent,contentIsolation,defaultEncoding=utf-8')
-
 # Título do Projeto
 
 Aqui vem um parágrafo descrevendo o projeto
@@ -7,24 +5,24 @@ Aqui vem um parágrafo descrevendo o projeto
 ## Começando
 
 As instruções a seguir fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
- Consulte a implantação para obter notas sobre como implantar o projeto em um sistema ativo
+ Consulte o deployment para obter notas sobre como dar deploy do projeto em um sistema ativo
 
 ### Pré-requisitos
 
-O que você precisa pararodar o sistema na sua m�quina
+O que você precisa par rodar o sistema na sua m�quina
 
 ```
 Dê exemplos
 ```
 
-### Installing
+### Instala��o
 
-A step by step series of examples that tell you how to get a development env running
+Um passo a passo de como ter uma ambiente de desenvolvimento rodando na sua m�quina
 
-Say what the step will be
+Diga qual passo será executado
 
 ```
-Dê um exemplo
+Demonstre
 ```
 
 E repita
@@ -34,6 +32,7 @@ até terminar
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
+Termine com um exeplo 
 
 ## Rodando os Testes
 
