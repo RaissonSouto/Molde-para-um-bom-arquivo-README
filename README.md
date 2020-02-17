@@ -9,15 +9,15 @@ As instruções a seguir fornecerão uma cópia do projeto em execução na sua 
 
 ### Pré-requisitos
 
-O que você precisa par rodar o sistema na sua m�quina
+O que você precisa para rodar o sistema na sua máquina
 
-```
-Dê exemplos
-```
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-### Instala��o
+### Instalação
 
-Um passo a passo de como ter uma ambiente de desenvolvimento rodando na sua m�quina
+Um passo a passo de como ter uma ambiente de desenvolvimento rodando na sua máquina
 
 Diga qual passo será executado
 
@@ -58,12 +58,6 @@ Dê um exemplo
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 ## Contribuindo
 
 Leia [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
@@ -83,16 +77,14 @@ Usamos [SemVer] (http://semver.org/) para versionar. Para as versões disponíve
 
 Veja também a lista dos [contribuidores](https://github.com/seu/projeto/contribuidores) que participaram desse projeto.
 
-## Licenç(s)
+## Licença(s)
 
-A(s) licen�a(s) que esse projeto possui, exemplo:
+A(s) licença(s) que esse projeto possui, exemplo:
 
-```
-Este projeto está licenciado sob a licença MIT - consulte o arqui [LICENSE.md](LICENSE.md) para obter detalhes
-```
+*Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes*
 
 ## Agradecimentos
 
-* As pessoas que tiveram seus c�digos usados no projeto
-* Inspiraçõ
+* As pessoas que tiveram seus códigos usados no projeto
+* Inspirações
 * etc
