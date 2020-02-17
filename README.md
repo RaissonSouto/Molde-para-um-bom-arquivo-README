@@ -2,8 +2,6 @@
 
 Aqui vem um parágrafo descrevendo o projeto. Como essa definição ficou muito pequena eu vou começar a colocar umas coisas aleatórias aqui pra deixar o parágrafo grande, fazendo com que você possa ter uma visualização de como ficaria esteticamente o parágrafo.
 
-No caso, eu também vou aproveitar pra falar como usar esse projeto, que deveria ser no próximo parágrafo mas eu vou falar agora. No topo desse README.md tem
-
 ## Começando
 
 As instruções a seguir devem fornecer uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
@@ -34,9 +32,11 @@ até terminar
 
 Termine com uma pequena demonstração do sistema em execução.
 
+No caso desse arquivo você pode baixar o repositório e depois modificar/passar para o seu projeto ou você coloca o README.md no modo raw e cópia com o mouse.
+
 ## Rodando os Testes
 
-Explique como rodar testes para confirmar que o sistema está funcionando com êxito e se não está, como corrigir o erro
+Explique como rodar testes para confirmar que o sistema está funcionando com êxito e se não está, explique como corrigir o erro.
 
 Aqui você coloca qual teste será realizado, o que ele testa e porque
 
