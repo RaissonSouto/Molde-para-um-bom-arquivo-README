@@ -1,4 +1,4 @@
-# Título do Projeto
+# Titulo do Projeto
 
 Aqui vem um parágrafo descrevendo o projeto
 
@@ -9,15 +9,15 @@ As instruções a seguir fornecerão uma cópia do projeto em execução na sua 
 
 ### Pré-requisitos
 
-O que você precisa par rodar o sistema na sua m�quina
+O que você precisa par rodar o sistema na sua m�quina
 
 ```
 Dê exemplos
 ```
 
-### Instala��o
+### Instala��o
 
-Um passo a passo de como ter uma ambiente de desenvolvimento rodando na sua m�quina
+Um passo a passo de como ter uma ambiente de desenvolvimento rodando na sua m�quina
 
 Diga qual passo será executado
 
@@ -32,7 +32,7 @@ até terminar
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
-Termine com um exeplo 
+Termine com um exeplo
 
 ## Rodando os Testes
 
@@ -85,7 +85,7 @@ Veja também a lista dos [contribuidores](https://github.com/seu/projeto/contrib
 
 ## Licenç(s)
 
-A(s) licen�a(s) que esse projeto possui, exemplo:
+A(s) licen�a(s) que esse projeto possui, exemplo:
 
 ```
 Este projeto está licenciado sob a licença MIT - consulte o arqui [LICENSE.md](LICENSE.md) para obter detalhes
@@ -93,6 +93,6 @@ Este projeto está licenciado sob a licença MIT - consulte o arqui [LICENSE.md]
 
 ## Agradecimentos
 
-* As pessoas que tiveram seus c�digos usados no projeto
+* As pessoas que tiveram seus c�digos usados no projeto
 * Inspiraçõ
 * etc
