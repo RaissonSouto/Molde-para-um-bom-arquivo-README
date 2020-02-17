@@ -1,8 +1,8 @@
 # Título do Projeto
 
-  Aqui vem um parágrafo descrevendo o projeto. Como essa definição ficou muito pequena eu vou começar a colocar umas coisas aleatórias aqui pra deixar o parágrafo grande, fazendo com que você possa ter uma visualização de como ficaria esteticamente o parágrafo.
+Aqui vem um parágrafo descrevendo o projeto. Como essa definição ficou muito pequena eu vou começar a colocar umas coisas aleatórias aqui pra deixar o parágrafo grande, fazendo com que você possa ter uma visualização de como ficaria esteticamente o parágrafo.
 
-  No caso, eu também vou aproveitar pra falar como usar esse projeto, que deveria ser no próximo parágrafo mas eu vou falar agora. No topo desse README.md tem
+No caso, eu também vou aproveitar pra falar como usar esse projeto, que deveria ser no próximo parágrafo mas eu vou falar agora. No topo desse README.md tem
 
 ## Começando
 
@@ -13,9 +13,9 @@ As instruções a seguir devem fornecer uma cópia do projeto em execução na s
 
 O que você precisa para rodar o sistema na sua máquina
 
-* [Framework](coloque o link aqui) - O framework usado
-* [Linguagem](coloque o link aqui) - A linguagem utilizada
-* [Biblioteca](coloque o link aqui) - A biblioteca utilizada
+* [Framework](https://github.com/RaissonSouto) - O framework usado
+* [Linguagem](https://github.com/RaissonSouto) - A linguagem utilizada
+* [Biblioteca](https://github.com/RaissonSouto) - A biblioteca utilizada
 
 ### Instalação
 
@@ -33,8 +33,7 @@ E repita
 até terminar
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-Termine com uma demostração de uma execução básica do sistema.
+Termine com uma pequena demostração do sistema em execução.
 
 ## Rodando os Testes
 
@@ -62,11 +61,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contribuindo
 
-Leia [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+Caso seu projeto tenha alguma regra mais específica para aceitar commits, coloque aqui. Exemplo: Leia [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
 
 ## Controle de versão
 
@@ -83,7 +78,7 @@ Veja também a lista dos [contribuidores](https://github.com/seu/projeto/contrib
 
 A(s) licença(s) que esse projeto possui, exemplo:
 
-*Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes*
+* *Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes*
 
 ## Agradecimentos
 
