@@ -10,9 +10,9 @@ As instruções a seguir devem fornecer uma cópia do projeto em execução na s
 
 O que alguém precisa ter instalado para rodar o sistema na máquina
 
-* [Framework](https://github.com/RaissonSouto) - O framework usado;
-* [Linguagem](https://github.com/RaissonSouto) - A linguagem utilizada;
-* [Biblioteca](https://github.com/RaissonSouto) - A biblioteca utilizada.
+* [Framework](https://github.com/RaissonSouto) - O framework usado
+* [Linguagem](https://github.com/RaissonSouto) - A linguagem utilizada
+* [Biblioteca](https://github.com/RaissonSouto) - A biblioteca utilizada
 
 ### Instalação
 
@@ -21,13 +21,13 @@ Um passo a passo de como ter uma ambiente de desenvolvimento rodando na sua máq
 *Diga qual passo será executado:*
 
 ```
-Demonstre:
+Demonstre
 ```
 
-*E repita:*
+*E repita até:*
 
 ```
-até terminar.
+terminar
 ```
 
 Termine com uma pequena demonstração do sistema em execução.
@@ -54,7 +54,7 @@ Caso seu projeto tenha alguma regra mais específica para aceitar commits, coloq
 
 ## Controle de versão
 
-Usamos [SemVer] (http://semver.org/) para versionar. Para as versões disponíveis, consulte  tags neste [repositório](https://github.com/your/project/tags).
+Usamos [esse sistema](http://o.serviço/usado) para controlar a versão do projeto. Para as versões disponíveis, consulte  tags [neste repositório](https://github.com/your/project/tags).
 
 ## Autores
 
@@ -71,6 +71,8 @@ A(s) licença(s) que esse projeto possui, exemplo:
 
 ## Agradecimentos
 
-* Às pessoas que tiveram seus códigos usados no projeto;
-* Inspirações;
-* Etc.
+* Às pessoas que tiveram seus códigos usados no projeto
+* Inspirações
+* Etc
+
+
