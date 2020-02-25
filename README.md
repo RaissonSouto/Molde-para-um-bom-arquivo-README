@@ -16,18 +16,18 @@ O que alguém precisa ter instalado para rodar o sistema na máquina
 
 ### Instalação
 
-Um passo a passo de como ter uma ambiente de desenvolvimento rodando na sua máquina
+Um passo a passo de como ter uma ambiente de desenvolvimento rodando na sua máquina:
 
-Diga qual passo será executado
+*Diga qual passo será executado:*
 
 ```
 Demonstre
 ```
 
-E repita
+*E repita até:*
 
 ```
-até terminar
+terminar
 ```
 
 Termine com uma pequena demonstração do sistema em execução.
@@ -38,7 +38,7 @@ No caso desse arquivo você pode baixar o repositório e depois modificar/passar
 
 Explique como rodar testes para confirmar que o sistema está funcionando com êxito e se não está, explique como corrigir o erro.
 
-Aqui você coloca qual teste será realizado, o que ele testa e porque
+Aqui você coloca qual teste será realizado, o que ele testa e porque:
 
 ```
 Aqui você demonstra como aplicar o teste
@@ -54,7 +54,7 @@ Caso seu projeto tenha alguma regra mais específica para aceitar commits, coloq
 
 ## Controle de versão
 
-Usamos [SemVer] (http://semver.org/) para versionar. Para as versões disponíveis, consulte  [tags neste repositó(https://github.com/your/project/tags).
+Usamos [esse sistema](http://o.serviço/usado) para controlar a versão do projeto. Para as versões disponíveis, consulte  tags [neste repositório](https://github.com/your/project/tags).
 
 ## Autores
 
@@ -71,6 +71,6 @@ A(s) licença(s) que esse projeto possui, exemplo:
 
 ## Agradecimentos
 
-* As pessoas que tiveram seus códigos usados no projeto
+* Às pessoas que tiveram seus códigos usados no projeto
 * Inspirações
-* etc
+* Etc
