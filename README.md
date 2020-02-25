@@ -41,7 +41,7 @@ Explique como rodar testes para confirmar que o sistema está funcionando com ê
 Aqui você coloca qual teste será realizado, o que ele testa e porque:
 
 ```
-Aqui você demonstra como aplicar o teste:
+Aqui você demonstra como aplicar o teste
 ```
 
 ## Deployment
@@ -74,5 +74,3 @@ A(s) licença(s) que esse projeto possui, exemplo:
 * Às pessoas que tiveram seus códigos usados no projeto
 * Inspirações
 * Etc
-
-
