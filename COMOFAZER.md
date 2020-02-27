@@ -18,9 +18,20 @@ marcação pra comandos
 
 **negrito**
 
+^teste1
+
+[^teste 2]
+
+teste 3
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 ***itálico e negrito***
 
-> block quotes
+> bloco para notas e observações
 
 * topíco de uma lista
 
@@ -28,9 +39,4 @@ marcação pra comandos
 |tabela|tabela|
 |tabela|tabela|
 
-alguns testes
-
-****
-
-----
-____
+----tracejado----
