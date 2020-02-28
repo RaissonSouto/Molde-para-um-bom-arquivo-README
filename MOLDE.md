@@ -2,10 +2,10 @@
 
 ## Sumário
 
-* [Apresentação](## Apresentação)
-* [Começando](## Começando)
-* [Rodando os testes](#Rodando os testes)
-* [Pré-requisitos](### Pré-requisitos)
+* [Apresentação](##-Apresentação)
+* [Começando](##-Começando)
+* [Rodando os testes](#-Rodando os testes)
+* [Pré-requisitos](###-Pré-requisitos)
 * [Instalação](###-Instalação)
 * [Deployment](#-Deployment)
 * [Contribuindo](#-contribuindo)
