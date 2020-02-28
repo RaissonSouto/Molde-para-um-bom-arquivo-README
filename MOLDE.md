@@ -1,10 +1,18 @@
-# Molde para um bom arquivo README
+# Título do Projeto
 
-## Súmario
+## Sumário
 
-* [Licença(s)](#-licença(s))
+* [Apresentação](## Apresentação)
+* [Começando](## Começando)
+* [Rodando os testes](#Rodando os testes)
+* [Pré-requisitos](### Pré-requisitos)
+* [Instalação](###-Instalação)
+* [Deployment](#-Deployment)
 * [Contribuindo](#-contribuindo)
-* [Instalação](#-Instalação)
+* [controle de versão](#-controle de versão)
+* [Autores](#-licença(s))
+* [Licença(s)](#-licença(s))
+* [Agradecimentos](#-Agradecimentos)
 
 ## Apresentação
 
