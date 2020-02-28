@@ -18,25 +18,14 @@ marcação pra comandos
 
 **negrito**
 
-^teste1
-
-[^teste 2]
-
-teste 3
-|   |   |   |   |   |
+| 1  |   |   |   |   |
 |---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|  2 |   |   |   |   |
+| 3  |   |   |   |   |
+| 4  |   |   |   |   |
 
 ***itálico e negrito***
 
 > bloco para notas e observações
 
 * topíco de uma lista
-
-|tabela|tabela|
-|tabela|tabela|
-|tabela|tabela|
-
-----tracejado----
