@@ -2,17 +2,18 @@
 
 ## Sumário
 
-* [Apresentação](##-Apresentação)
-* [Começando](##-Começando)
-* [Rodando os testes](#-Rodando os testes)
-* [Pré-requisitos](###-Pré-requisitos)
-* [Instalação](###-Instalação)
-* [Deployment](#-Deployment)
-* [Contribuindo](#-contribuindo)
-* [controle de versão](#-controle de versão)
-* [Autores](#-licença(s))
-* [Licença(s)](#-licença(s))
-* [Agradecimentos](#-Agradecimentos)
+- [Título do Projeto](#t%c3%adtulo-do-projeto)
+  - [Sumário](#sum%c3%a1rio)
+  - [Apresentação](#apresenta%c3%a7%c3%a3o)
+  - [Começando](#come%c3%a7ando)
+    - [Pré-requisitos](#pr%c3%a9-requisitos)
+    - [Instalação](#instala%c3%a7%c3%a3o)
+  - [Rodando os Testes](#rodando-os-testes)
+  - [Deployment](#deployment)
+  - [Contribuindo](#contribuindo)
+  - [Autores](#autores)
+  - [Licença(s)](#licen%c3%a7as)
+  - [Agradecimentos](#agradecimentos)
 
 ## Apresentação
 
@@ -67,10 +68,6 @@ Adicione notas sobre como implantar isso em um sistema ativo.
 ## Contribuindo
 
 Caso seu projeto tenha alguma regra mais específica para aceitar commits, coloque aqui. Como por exemplo: Leia [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
-
-## Controle de versão
-
-Usamos [esse sistema](http://o.serviço/usado) para controlar a versão do projeto. Para as versões disponíveis, consulte  tags [neste repositório](https://github.com/your/project/tags).
 
 ## Autores
 
